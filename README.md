@@ -14,4 +14,7 @@ This lab was part of my TryHackMe Web Fundamentals path. I used **Gobuster**, a 
 ## 💻 Command Used
 ```bash
 gobuster -u http://fakebank.thm -w wordlist.txt dir
+
+
+
 ![Gobuster Output Screenshot] https://github.com/serenalindquist99/web-dir-enumeration-gobuster/commit/e35c11c4d572527b0d5fc10cf96a29f869bc90d0
